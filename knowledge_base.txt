@@ -1,0 +1,14 @@
+International Travel Policy
+Employees traveling internationally for business purposes must submit a travel request at least two weeks in advance through the HR portal. All international trips require prior approval from the employee's direct manager and the finance department. The company covers economy class flights, standard accommodation up to $150 per night, and a daily meal allowance of $50. Employees must carry valid travel insurance provided by the company. Personal trips extended before or after business travel are not covered by the company and must be clearly noted in the travel request.
+
+Remote Work Policy
+Employees are permitted to work remotely up to three days per week, subject to manager approval. Remote work requests should be submitted through the internal scheduling system at least 24 hours in advance. Employees working remotely must remain reachable during core business hours (10 AM to 4 PM local time) and attend all scheduled meetings via video conference. The company provides a one-time home office setup allowance of $300 for new remote employees.
+
+Annual Leave Policy
+All full-time employees are entitled to 20 days of paid annual leave per calendar year, accrued monthly. Unused leave can be carried over into the following year up to a maximum of 5 days. Leave requests must be submitted at least one week in advance through the HR system and are subject to manager approval based on team workload. Public holidays are granted separately and do not count against annual leave balances.
+
+Expense Reimbursement Policy
+Employees who incur business-related expenses must submit a reimbursement claim within 30 days of the expense date, along with original receipts. Approved categories include client meals, transportation, office supplies, and approved software subscriptions. Reimbursements are processed within 10 business days after manager approval. Expenses without valid receipts or exceeding $500 without prior written approval will not be reimbursed.
+
+Cybersecurity Policy
+All employees must use company-approved password managers and enable two-factor authentication on all work accounts. Company laptops must have full-disk encryption enabled at all times. Employees are prohibited from connecting personal USB drives to company devices without IT approval. Any suspected phishing email or security incident must be reported to the IT security team within one hour of discovery.
