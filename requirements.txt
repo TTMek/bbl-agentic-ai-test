@@ -1,0 +1,4 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+# Add the specific agents SDK package name here if it's an external pip package
+# e.g., if you are using a specific version or wrapper.
